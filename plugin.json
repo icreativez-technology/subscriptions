@@ -1,0 +1,10 @@
+{
+    "id": "botble/subscription",
+    "name": "Subscription",
+    "namespace": "Botble\\Subscription\\",
+    "provider": "Botble\\Subscription\\Providers\\SubscriptionServiceProvider",
+    "author": "Arshad",
+    "url": "https://botble.com",
+    "version": "1.0",
+    "description": "Subscription Management"
+}
